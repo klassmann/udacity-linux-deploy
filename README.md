@@ -1,4 +1,4 @@
-# udacity-linux-deploy
+# Udacity - Linux Server Configuration
 This project is for Udacity Full-Stack Developer course, the last project, and it has information to Udacity reviewer about an ubuntu instance in the Amazon Lightsail providing a basic Python application deployed over Linux, Apache, PostgreSQL.
 
 ## Configuration Check-list
@@ -13,10 +13,10 @@ This project is for Udacity Full-Stack Developer course, the last project, and i
 - [ ] The project `catalog` is running in the web server.
 
 ## Access information
-IP:
-URL:
-User name: 
-Password: (It was sent directly to Udacity reviwer)
+- IP: 0.0.0.0
+- URL: domain.com
+- User name: `grader`
+- Password: (It was sent directly to Udacity reviewer)
 
 ## Software list on the system
 - [ ] Python 3.5
