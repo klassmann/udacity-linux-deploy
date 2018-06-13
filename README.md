@@ -2,8 +2,9 @@
 This project is for Udacity Full-Stack Developer course, the last project, and it has information to Udacity reviewer about an ubuntu instance in the Amazon Lightsail providing a basic Python application deployed over Linux, Apache, PostgreSQL.
 
 ## Configuration Check-list
+- [X] There is the `grader` user in the system
 - [X] Disabling SSH login with `root` user
-- [ ] `grader` user has `sudo` permission
+- [X] `grader` user has `sudo` permission
 - [X] Only `SSH`, `HTTP` and `NTP` ports are configured in the firewall
 - [X] It is allowed `SSH` login only with `RSA` key authentication
 - [X] All packages are updated in the operating system
