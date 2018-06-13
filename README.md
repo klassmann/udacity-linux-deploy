@@ -2,23 +2,27 @@
 This project is for Udacity Full-Stack Developer course, the last project, and it has information to Udacity reviewer about an ubuntu instance in the Amazon Lightsail providing a basic Python application deployed over Linux, Apache, PostgreSQL.
 
 ## Configuration Check-list
-- [ ] Disabling SSH login with `root`
+- [X] Disabling SSH login with `root` user
 - [ ] `grader` user has `sudo` permission
-- [ ] Only `SSH`, `HTTP` and `NTP` ports are configured in the firewall
-- [ ] `SSH` login with `RSA` key authentication
-- [ ] All packages are updated in the operating system.
-- [ ] `SSH` has a non-standard port number.
-- [ ] There is a web server running in the `80` port.
-- [ ] There is a database configured and running.
-- [ ] The project `catalog` is running in the web server.
+- [X] Only `SSH`, `HTTP` and `NTP` ports are configured in the firewall
+- [X] It is allowed `SSH` login only with `RSA` key authentication
+- [X] All packages are updated in the operating system
+- [X] `SSH` has a non-standard port number
+- [ ] There is a web server running in the `80` port
+- [ ] There is a database configured and running
+- [ ] The project `catalog` is running in the web server
+
+Extra
+- [ ] More than one application is running in the web server
 
 ## Access information
-- IP: 0.0.0.0
-- URL: domain.com
+- IP: 13.59.154.15
+- URL: (there is no domain)
 - User name: `grader`
 - Password: (It was sent directly to Udacity reviewer)
 
 ## Software list on the system
+- [ ] finger
 - [ ] Python 3.5
 - [ ] Apache
 - [ ] mod_wsgi
