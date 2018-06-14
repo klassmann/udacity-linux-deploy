@@ -5,7 +5,7 @@ This project is for Udacity Full-Stack Developer course, the last project, and i
 
 Install the private key and run this:
 
-    ssh -p 2200 grader@13.59.154.15 -i ~/.ssh/id_private_key
+    ssh -p 2200 grader@tierw.com -i ~/.ssh/id_private_key
 
 ## Configuration Check-list
 - [X] Add the `grader` user in the system
@@ -18,14 +18,11 @@ Install the private key and run this:
 - [X] All packages are updated in the operating system
 - [X] There is a web server running in the `80` port
 - [X] There is a database configured and running
-- [ ] The project `catalog` is running in the web server
-
-Extra
-- [ ] More than one application is running in the web server
+- [X] The project `catalog` is running in the web server
 
 ## Access information
 - IP: 18.188.174.98
-- URL: (there is no domain)
+- URL: (Sem dominio)
 - User name: `grader`
 - Password: (It was sent directly to Udacity reviewer)
 - Private Key: (It was sent directly to Udacity reviewer)
@@ -41,8 +38,8 @@ Extra
 - [X] PostgreSQL 10
 
 ## Applications running
-- [ ] [Catalog](https://github.com/klassmann/udacity-neighborhood-map)
-- [ ] [Neighborhood Map](https://github.com/klassmann/udacity-catalog)
+- [X] [Catalog](https://github.com/klassmann/udacity-catalog)
+
 
 ## License
 You can't use this project as your project for Udacity, but you can use for study purposes if you want.
