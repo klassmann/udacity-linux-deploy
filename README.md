@@ -22,7 +22,7 @@ Install the private key and run this:
 
 ## Access information
 - IP: 18.188.174.98
-- URL: (Sem dominio)
+- URL: http://klassmann.link
 - User name: `grader`
 - Password: (It was sent directly to Udacity reviewer)
 - Private Key: (It was sent directly to Udacity reviewer)
