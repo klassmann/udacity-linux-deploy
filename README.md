@@ -24,7 +24,7 @@ Extra
 - [ ] More than one application is running in the web server
 
 ## Access information
-- IP: 13.59.154.15
+- IP: 18.188.174.98
 - URL: (there is no domain)
 - User name: `grader`
 - Password: (It was sent directly to Udacity reviewer)
@@ -33,6 +33,8 @@ Extra
 ## Software list on the system
 - [X] finger
 - [X] Python 3.5
+- [X] pip3
+- [X] virtualenv
 - [X] Apache
 - [X] mod_wsgi
 - [X] git
