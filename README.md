@@ -5,7 +5,7 @@ This project is for Udacity Full-Stack Developer course, the last project, and i
 
 Install the private key and run this:
 
-    ssh -p 2200 grader@tierw.com -i ~/.ssh/id_private_key
+    ssh -p 2200 grader@klassmann.link -i ~/.ssh/id_private_key
 
 ## Configuration Check-list
 - [X] Add the `grader` user in the system
@@ -32,8 +32,8 @@ Install the private key and run this:
 - [X] Python 3.5
 - [X] pip3
 - [X] virtualenv
-- [X] Apache
-- [X] mod_wsgi
+- [X] Apache2
+- [X] mod_wsgi-py3
 - [X] git
 - [X] PostgreSQL 10
 
