@@ -1,5 +1,5 @@
 # Udacity - Linux Server Configuration
-This project is for Udacity Full-Stack Developer course, the last project, and it has information to Udacity reviewer about an ubuntu instance in the Amazon Lightsail providing a basic Python application deployed over Linux, Apache, PostgreSQL.
+This project is for Udacity Full-Stack Developer course, the last project, and it has information to Udacity reviewer about an ubuntu instance in the Amazon Lightsail providing a basic Python application deployed over Linux, Apache, and PostgreSQL.
 
 ## How to login
 
