@@ -21,8 +21,10 @@ Install the private key and run this:
 - [X] The project `catalog` is running in the web server
 
 ## Access information
+In the browser use the address http://klassmann.link because the `catalog` app is configured with this domain in the Google OAuth.
+
 - IP: 18.188.174.98
-- URL: http://klassmann.link
+- URL: http://klassmann.link 
 - User name: `grader`
 - Password: (It was sent directly to Udacity reviewer)
 - Private Key: (It was sent directly to Udacity reviewer)
