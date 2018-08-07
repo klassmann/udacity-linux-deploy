@@ -50,7 +50,7 @@ Install the private key and run this:
 In the browser use the address http://klassmann.link because the `catalog` app is configured with this domain in the Google OAuth.
 
 - IP: 18.188.174.98
-- URL: http://klassmann.link 
+- URL: http://klassmann.link (unavailable)
 - User name: `grader`
 - Password: (It was sent directly to Udacity reviewer)
 - Private Key: (It was sent directly to Udacity reviewer)
